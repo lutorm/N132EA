@@ -9,7 +9,9 @@
 
 [N132EA Weight & Balance](weight_and_balance.jpg)
 
-[MGL Enigma Installation Manual](Enigma.pdf)
+[MGL Enigma User Manual](MGL_EFIS_user_manual.pdf) 
+
+[MGL Enigma Installation Manual](Enigma.pdf) 
 
 [T2000SFL Transponder Manual](T2000SFL.pdf)
 
