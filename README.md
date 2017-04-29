@@ -5,7 +5,7 @@
 
 [Operations policy](Operations.md)
 
-[Sonex N132EA Pilots Operating Handbook](POH.md)
+[Sonex N132EA Pilots Operating Handbook](Sonex_POH.pdf)
 
 [N132EA Weight & Balance](weight_and_balance.jpg)
 
