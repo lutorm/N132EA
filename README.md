@@ -8,3 +8,9 @@
 [Sonex N132EA Pilots Operating Handbook](POH.md)
 
 [N132EA Weight & Balance](weight_and_balance.jpg)
+
+[MGL Enigma Installation Manual](Enigma.pdf)
+
+[T2000SFL Transponder Manual](T2000SFL.pdf)
+
+[MGL V6 Transceiver Manual](V6_Transceiver_Manual.pdf)
