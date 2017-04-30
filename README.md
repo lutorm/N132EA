@@ -18,3 +18,6 @@
 [MGL V6 Transceiver Manual](V6_Transceiver_Manual.pdf)
 
 [Aerovee Manual](AeroVee_2.1_Manual.pdf)
+
+[Sonex Condition Inspection Checklist](N604X_Condition_Inspection_Checklist.pdf)
+
