@@ -16,3 +16,5 @@
 [T2000SFL Transponder Manual](T2000SFL.pdf)
 
 [MGL V6 Transceiver Manual](V6_Transceiver_Manual.pdf)
+
+[Aerovee Manual](AeroVee_2.1_Manual.pdf)
