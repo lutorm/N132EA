@@ -17,3 +17,4 @@
 
 * Plans for ADS-B Out 2020 (2.5yr)?
 * Solar battery charger?
+* 4 EGT probes?
