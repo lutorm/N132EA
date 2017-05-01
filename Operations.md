@@ -11,24 +11,24 @@ this policy is always available at
 ## Pilot Requirements
 
 1. Only members may act as Pilot In Command (PIC) of the aircraft. The
-   only exception is dual instruction of members by non-member
-   Certified Flight Instructors listed below.
+   only exception is dual instruction of members by approved
+   non-member Certified Flight Instructors listed below.
 1. Members who are CFI's may only instruct other members in the
    aircraft.
 1. No one may act as PIC unless they are named in the aircraft
    insurance policy.
 1. No one may operate an aircraft unless they can legally do so under
    the FARs.
-1. Aircraft may only be operated under Part 91 and will not be used
+1. Aircraft may only be operated under Part 91 and may not be used
    for air taxi, charter, or other commercial purposes.
-1. Members who have flown less than X hours in the past Y months in
-   the airplane type need a checkride with a Do we want to require
-   some sort of currency?
+1. Members who have not flown the airplane type in the past Y months
+   need a checkride with an approved CFI before they may use the
+   aircraft?
 
 #### Approved CFIs
 
-The following (non-member) CFIs are allowed to conduct dual
-instruction of members in LLC aircraft:
+In addition to CFIs who are members, the following (non-member) CFIs
+are allowed to conduct dual instruction of members in LLC aircraft:
 
 1. None
 
@@ -62,7 +62,7 @@ The current costs for each member are:
 1. An aircraft usage fee of $40 per hour of aircraft use, as measured
    by Hobbs meter. The hourly fee is ``wet'', i.e. costs of fuel, oil,
    and other consumables are paid for by the LLC. The hourly fee
-   should be paid monthly or after 10 hours, whichever is sooner.
+   should be paid monthly or after 10 flying hours, whichever is sooner.
 1. Members are solely responsible for landing fees, tiedown charges,
    etc., if they bring an airplane to another airport.
 
@@ -88,7 +88,7 @@ cards to the members, these may also be used for this purpose.
 1. Engine oil level must be checked before each operation of the
    aircraft, and added as needed. A notation in the log book must be
    made whenever oil is added indicating the amount of oil added, the
-   type of oil, the level prior to adding oil.
+   type of oil, the level prior to adding oil. (How do they get oil?)
 
 ## Maintenance
 
