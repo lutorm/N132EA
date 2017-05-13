@@ -1,7 +1,4 @@
-* One LLC
-* One airplane
-* One certificate
-* Four pilots...
+[Aircraft Issue tracker](https://github.com/lutorm/N132EA/issues)
 
 [Operations policy](Operations.md)
 
