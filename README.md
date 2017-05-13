@@ -13,6 +13,8 @@
 
 [MGL Enigma Installation Manual](Enigma.pdf) 
 
+[MGL communication protocol](MGL_EFIS_comm_protocol.pdf) 
+
 [T2000SFL Transponder Manual](T2000SFL.pdf)
 
 [MGL V6 Transceiver Manual](V6_Transceiver_Manual.pdf)
