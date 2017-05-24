@@ -10,7 +10,9 @@
 
 [MGL Enigma Installation Manual](Enigma.pdf) 
 
-[MGL communication protocol](MGL_EFIS_comm_protocol.pdf) 
+[MGL Airtalk communication protocol](Airtalk_data_format.pdf) 
+
+[MGL Airtalk wire format](Airtalk_SP1-SP2.pdf) 
 
 [T2000SFL Transponder Manual](T2000SFL.pdf)
 
