@@ -12,13 +12,19 @@
 
 [MGL Airtalk communication protocol](Airtalk_data_format.pdf) 
 
-[MGL Airtalk wire format](Airtalk_SP1-SP2.pdf) 
+[MGL Airtalk wire format](Airtalk_SP1-SP2.pdf)
+
+[MGL SP2-SP4 Magnetometer/AHRS](SP2-SP4.pdf)
+
+[MGL RDAC X Installation Manual](RDACXins.pdf)
 
 [T2000SFL Transponder Manual](T2000SFL.pdf)
 
 [MGL V6 Transceiver Manual](V6_Transceiver_Manual.pdf)
 
 [Aerovee Manual](AeroVee_2.1_Manual.pdf)
+
+[Floscan fuel flow sender](Floscan.pdf)
 
 [Sonex Condition Inspection Checklist](N604X_Condition_Inspection_Checklist.pdf)
 
