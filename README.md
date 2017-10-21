@@ -22,7 +22,9 @@
 
 [MGL V6 Transceiver Manual](V6_Transceiver_Manual.pdf)
 
-[Aerovee Manual](AeroVee_2.1_Manual.pdf)
+[Aerovee Manual](AeroVee_2.1_Manual.pdf) 
+
+[Aerocarb Manual](AeroCarb_Manual.pdf) 
 
 [Floscan fuel flow sender](Floscan.pdf)
 
