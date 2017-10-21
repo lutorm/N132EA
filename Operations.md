@@ -15,13 +15,13 @@ this policy is always available at
    non-member Certified Flight Instructors listed below.
 1. Members who are CFI's may only instruct other members in the
    aircraft.
-1. No one may act as PIC unless they are named in the aircraft
+1. No one may act as PIC unless they are named insured on the aircraft
    insurance policy.
 1. No one may operate an aircraft unless they can legally do so under
    the FARs.
 1. Aircraft may only be operated under Part 91 and may not be used
    for air taxi, charter, or other commercial purposes.
-1. Members who have not flown the airplane type in the past Y months
+1. Members who have not flown the airplane type in the past 6 months
    need a checkride with an approved CFI before they may use the
    aircraft?
 
@@ -35,7 +35,7 @@ are allowed to conduct dual instruction of members in LLC aircraft:
 ## Aircraft Scheduling
 
 1. Aircraft scheduling is done on a first-come, first-served basis
-   done through Google Calendar, and may be cancelled at any time.
+   through Google Calendar, and may be cancelled at any time.
 1. There are no minimum or maximum limits on the time for which a
    member may schedule an aircraft, but members are expected to bear
    in mind that all members are entitled to equal access to the
@@ -57,9 +57,9 @@ are allowed to conduct dual instruction of members in LLC aircraft:
 
 The current costs for each member are:
 
-1. A monthly fee of $110, regardless of aircraft usage, to cover fixed
+1. Monthly dues of $145, regardless of aircraft usage, to cover fixed
    costs.
-1. An aircraft usage fee of $40 per hour of aircraft use, as measured
+1. An aircraft usage fee of $35 per hour of aircraft use, as measured
    by Hobbs meter. The hourly fee is ``wet'', i.e. costs of fuel, oil,
    and other consumables are paid for by the LLC. The hourly fee
    should be paid monthly or after 10 flying hours, whichever is sooner.
@@ -74,21 +74,31 @@ cards to the members, these may also be used for this purpose.
 ## Operations
 
 1. Operation must be conducted in accordance with the FARs and the POH
-   for the respective aircraft.
+   for the aircraft.
 1. The aircraft
    [aircraft issue tracker](https://github.com/lutorm/N132EA/issues)
    must be reviewed before each use of the aircraft.
 1. The Hobbs start and stop time must be recorded in the aircraft log
    book. Any discrepancy between the start time and previous stop time
    should be noted as a separate entry and marked.
-1. Do we want to require people to refuel after use or are there
-   instances where people may not want full tanks for W\&B concerns?
+1. The aircraft should be refueled after each use unless an agreement
+   with the next scheduled user to not refuel is made.
 1. Any problems must be noted in the
-   [aircraft issue tracker](https://github.com/lutorm/N132EA/issues).
+   [aircraft issue tracker](https://github.com/lutorm/N132EA/issues). For
+   serious concerns, the director of maintenance should also be
+   notified directly.
 1. Engine oil level must be checked before each operation of the
    aircraft, and added as needed. A notation in the log book must be
    made whenever oil is added indicating the amount of oil added, the
-   type of oil, the level prior to adding oil. (How do they get oil?)
+   type of oil, the level prior to adding oil. Spare oil is kept in
+   the tool cabinet.
+1. To avoid lead fouling and maintenance resulting from deposits, and
+   to save fuel costs, the mixture should be leaned _aggressively_
+   during all ground operations, including runup. Mixture should also
+   be leaned to best power during cruise and all climbs above 3000'
+   density altitude, unless maximum CHT is exceeded. Full rich mixture
+   should only be used for cold start and full-power climbs below
+   3000'.
 
 ## Maintenance
 
@@ -96,8 +106,6 @@ cards to the members, these may also be used for this purpose.
    [aircraft issue tracker](https://github.com/lutorm/N132EA/issues)
    and the issue closed when completed. Opening an issue will
    automatically notify all members.
-1. Minor maintenance, up to a cost of $100, can be done directly by
-   each member and charged to the LLC account.
 1. It is expected that all members will help out with aircraft
    maintenance and repairs to keep labor costs minimal.
 1. In the event of aircraft damage requiring replacement parts whose
@@ -108,8 +116,8 @@ cards to the members, these may also be used for this purpose.
    while an aircraft was checked out by the member unless the flight
    was conducted in violation of this policy or the FARs.
 1. Aircraft upgrades, such as additional equipment, that require
-   additional capital contributions by the members shall be decided by
-   unanimous vote.
+   additional capital contributions by the members beyond the monthly
+   dues must be approved by unanimous vote.
 
 
 
